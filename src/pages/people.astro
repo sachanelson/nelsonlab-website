@@ -14,11 +14,20 @@ const alumni = people.filter((p) => p.status === 'alumni');
     <div class="space-y-8">
       {
         current.map((person) => (
-          <article class="border-b border-slate-100 pb-6">
-            <h3 class="text-lg font-semibold text-slate-900">{person.name}</h3>
-            <p class="text-sm text-slate-600">{person.role}</p>
-            {person.education && <p class="mt-1 text-sm italic text-slate-500">{person.education}</p>}
-            {person.bio && <p class="mt-2 text-slate-700">{person.bio}</p>}
+          <article class="flex flex-col gap-4 border-b border-slate-100 pb-6 sm:flex-row sm:items-start">
+            {person.image && (
+              <img
+                src={person.image}
+                alt={`Photo of ${person.name}`}
+                class="h-32 w-32 rounded-full object-cover"
+              />
+            )}
+            <div>
+              <h3 class="text-lg font-semibold text-slate-900">{person.name}</h3>
+              <p class="text-sm text-slate-600">{person.role}</p>
+              {person.education && <p class="mt-1 text-sm italic text-slate-500">{person.education}</p>}
+              {person.bio && <p class="mt-2 text-slate-700">{person.bio}</p>}
+            </div>
           </article>
         ))
       }
@@ -30,11 +39,20 @@ const alumni = people.filter((p) => p.status === 'alumni');
     <div class="space-y-8">
       {
         alumni.map((person) => (
-          <article class="border-b border-slate-100 pb-6">
-            <h3 class="text-lg font-semibold text-slate-900">{person.name}</h3>
-            <p class="text-sm text-slate-600">{person.role}</p>
-            {person.education && <p class="mt-1 text-sm italic text-slate-500">{person.education}</p>}
-            {person.bio && <p class="mt-2 text-slate-700">{person.bio}</p>}
+          <article class="flex flex-col gap-4 border-b border-slate-100 pb-6 sm:flex-row sm:items-start">
+            {person.image && (
+              <img
+                src={person.image}
+                alt={`Photo of ${person.name}`}
+                class="h-32 w-32 rounded-full object-cover"
+              />
+            )}
+            <div>
+              <h3 class="text-lg font-semibold text-slate-900">{person.name}</h3>
+              <p class="text-sm text-slate-600">{person.role}</p>
+              {person.education && <p class="mt-1 text-sm italic text-slate-500">{person.education}</p>}
+              {person.bio && <p class="mt-2 text-slate-700">{person.bio}</p>}
+            </div>
           </article>
         ))
       }

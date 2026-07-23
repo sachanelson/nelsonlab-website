@@ -7,11 +7,27 @@
     "bio": "I love collaborating with this great group of people. Other interests include ultimate frisbee, politics, music and the future of scientific publication."
   },
   {
+    "name": "Erick Barrios",
+    "role": "Graduate Student",
+    "status": "current",
+    "education": "Bachelor's degree: Boston College",
+    "bio": "I am using CRISPRi to manipulate transcription factors in mammalian cortical neurons.",
+    "image": "/images/erick-barrios.png"
+  },
+  {
+    "name": "Ryan Kirk",
+    "role": "Graduate Student",
+    "status": "current",
+    "education": "Bachelor's degree: Oberlin and University of Delaware",
+    "bio": "I am interested in new techniques for manipulating nuclear proteins in order to better understand transcriptional circuits in mammalian neurons."
+  },
+  {
     "name": "Zhe Meng",
     "role": "Research Technician",
     "status": "current",
     "education": "Huazhong University of Science & Technology at Hankou, China, B.S., Chemical Engineering",
-    "bio": "I joined the Nelson lab in 2004. I really enjoy working here at Brandeis. The people are enthusiastic about their work and a pleasure to work with."
+    "bio": "I joined the Nelson lab in 2004. I really enjoy working here at Brandeis. The people are enthusiastic about their work and a pleasure to work with.",
+    "image": "/images/zhe-meng.png"
   },
   {
     "name": "Derek Wise",
@@ -19,6 +35,13 @@
     "status": "current",
     "education": "B.A.: Colby College, Maine; Graduated January, 2023",
     "bio": "I am using calcium imaging and visualization of synaptic proteins to monitor homeostatic regulation of network activity in cortical slice cultures."
+  },
+  {
+    "name": "Erin Clark",
+    "role": "Postdoc",
+    "status": "alumni",
+    "education": "PhD, Harvard Medical School, Boston; Bachelors, University of Texas at Austin",
+    "bio": "I am using transgenic mouse lines to characterize the regulatory networks that control adult neuronal identity. Now a Principle Scientist in Pharmacology & Discovery Sciences at Sunovion."
   },
   {
     "name": "David Levitan",
@@ -32,7 +55,8 @@
     "role": "Graduate Student (jointly supervised by Don Katz)",
     "status": "alumni",
     "education": "B.S.: Tsinghua University, Beijing, China",
-    "bio": "I am studying the cellular and molecular basis of conditioned taste aversion, a form of one-trial gustatory learning. Now a postdoctoral fellow at MGH."
+    "bio": "I am studying the cellular and molecular basis of conditioned taste aversion, a form of one-trial gustatory learning. Now a postdoctoral fellow at MGH.",
+    "image": "/images/chenghao-liu.png"
   },
   {
     "name": "Michael Schneider",
@@ -54,12 +78,5 @@
     "status": "alumni",
     "education": "PhD, Washington University, St. Louis",
     "bio": "I am studying the transcriptional regulation of homeostatic plasticity, and its role in seizure disorders. Now a Senior Scientist at Cognesy Therapeutics."
-  },
-  {
-    "name": "Lab Member (name to be added)",
-    "role": "Current Lab Member",
-    "status": "current",
-    "education": "",
-    "bio": "I am interested in new techniques for manipulating nuclear proteins in order to better understand transcriptional circuits in mammalian neurons."
   }
 ]
