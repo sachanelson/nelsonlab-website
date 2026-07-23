@@ -1,0 +1,13 @@
+{
+  "title": "nelsonlab",
+  "tagline": "Physiological Genomics of Cortical Circuits",
+  "institution": "Brandeis University",
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "People", "href": "/people" },
+    { "label": "Projects", "href": "/projects" },
+    { "label": "Publications", "href": "/publications" },
+    { "label": "Resources", "href": "/resources" },
+    { "label": "Learning R", "href": "/learning-r" }
+  ]
+}

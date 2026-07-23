@@ -1,0 +1,43 @@
+---
+import Layout from '../layouts/Layout.astro';
+import people from '../data/people.json';
+
+const current = people.filter((p) => p.status === 'current');
+const alumni = people.filter((p) => p.status === 'alumni');
+---
+
+<Layout title="People" description="Current and former members of the Nelson Lab.">
+  <h1 class="mb-8 text-3xl font-bold text-slate-900">People</h1>
+
+  <section class="mb-12">
+    <h2 class="mb-4 text-xl font-semibold text-indigo-700">Current Lab Members</h2>
+    <div class="space-y-8">
+      {
+        current.map((person) => (
+          <article class="border-b border-slate-100 pb-6">
+            <h3 class="text-lg font-semibold text-slate-900">{person.name}</h3>
+            <p class="text-sm text-slate-600">{person.role}</p>
+            {person.education && <p class="mt-1 text-sm italic text-slate-500">{person.education}</p>}
+            {person.bio && <p class="mt-2 text-slate-700">{person.bio}</p>}
+          </article>
+        ))
+      }
+    </div>
+  </section>
+
+  <section>
+    <h2 class="mb-4 text-xl font-semibold text-indigo-700">Recent Alumni</h2>
+    <div class="space-y-8">
+      {
+        alumni.map((person) => (
+          <article class="border-b border-slate-100 pb-6">
+            <h3 class="text-lg font-semibold text-slate-900">{person.name}</h3>
+            <p class="text-sm text-slate-600">{person.role}</p>
+            {person.education && <p class="mt-1 text-sm italic text-slate-500">{person.education}</p>}
+            {person.bio && <p class="mt-2 text-slate-700">{person.bio}</p>}
+          </article>
+        ))
+      }
+    </div>
+  </section>
+</Layout>

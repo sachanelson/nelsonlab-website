@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Sacha Nelson",
+    "role": "Principal Investigator",
+    "status": "current",
+    "education": "B.A., B.S., Brown University; M.D., Ph.D., UCSD; Post-Doc, M.I.T.",
+    "bio": "I love collaborating with this great group of people. Other interests include ultimate frisbee, politics, music and the future of scientific publication."
+  },
+  {
+    "name": "Zhe Meng",
+    "role": "Research Technician",
+    "status": "current",
+    "education": "Huazhong University of Science & Technology at Hankou, China, B.S., Chemical Engineering",
+    "bio": "I joined the Nelson lab in 2004. I really enjoy working here at Brandeis. The people are enthusiastic about their work and a pleasure to work with."
+  },
+  {
+    "name": "Derek Wise",
+    "role": "Graduate Student (jointly supervised by Steve Van Hooser)",
+    "status": "current",
+    "education": "B.A.: Colby College, Maine; Graduated January, 2023",
+    "bio": "I am using calcium imaging and visualization of synaptic proteins to monitor homeostatic regulation of network activity in cortical slice cultures."
+  },
+  {
+    "name": "David Levitan",
+    "role": "Postdoc (jointly supervised by Don Katz)",
+    "status": "alumni",
+    "education": "PhD, Bar-Ilan University, Israel",
+    "bio": "I am interested in uncovering the roles that specific cell types play in learning and memory by examining their gene expression patterns in response to varying memory related tasks. Now a postdoc at Hebrew University."
+  },
+  {
+    "name": "Chenghao Liu",
+    "role": "Graduate Student (jointly supervised by Don Katz)",
+    "status": "alumni",
+    "education": "B.S.: Tsinghua University, Beijing, China",
+    "bio": "I am studying the cellular and molecular basis of conditioned taste aversion, a form of one-trial gustatory learning. Now a postdoctoral fellow at MGH."
+  },
+  {
+    "name": "Michael Schneider",
+    "role": "Graduate Student",
+    "status": "alumni",
+    "education": "",
+    "bio": "Recent lab member, now graduate student in Biomedical Engineering at U. Conn."
+  },
+  {
+    "name": "Anton Shulmann",
+    "role": "Postdoc (jointly supervised by Adam Hantman)",
+    "status": "alumni",
+    "education": "M.D. Ph.D., Heidelberg University, Germany",
+    "bio": "I'm interested in using computational analyses to learn about brain function from genomic data. Now a Research Fellow at NIMH Intramural."
+  },
+  {
+    "name": "Vera Valakh",
+    "role": "Postdoc",
+    "status": "alumni",
+    "education": "PhD, Washington University, St. Louis",
+    "bio": "I am studying the transcriptional regulation of homeostatic plasticity, and its role in seizure disorders. Now a Senior Scientist at Cognesy Therapeutics."
+  },
+  {
+    "name": "Lab Member (name to be added)",
+    "role": "Current Lab Member",
+    "status": "current",
+    "education": "",
+    "bio": "I am interested in new techniques for manipulating nuclear proteins in order to better understand transcriptional circuits in mammalian neurons."
+  }
+]
