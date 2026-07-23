@@ -11,8 +11,24 @@
     "role": "Graduate Student",
     "status": "current",
     "education": "Bachelor's degree: Boston College",
-    "bio": "I am using CRISPRi to manipulate transcription factors in mammalian cortical neurons.",
+    "bio": "I am studying how circadian transcription factors regulate homeostatic plasticity",
     "image": "/images/erick-barrios.png"
+  },
+  {
+    "name": "Elly Ragone",
+    "role": "Graduate Student",
+    "status": "current",
+    "education": "Bachelor's degree: ",
+    "bio": "I am studying how BMAL1 regulates cortical excitability and cortical development",
+    "image": "/images/elly-ragone.png"
+  },
+  {
+    "name": "Morgan Baciu",
+    "role": "Graduate Student",
+    "status": "current",
+    "education": "Bachelor's degree: ",
+    "bio": "I am using CRISPRi to manipulate transcription factors in mammalian cortical neurons.",
+    "image": "/images/morgan-baciu.png"
   },
   {
     "name": "Ryan Kirk",
@@ -24,7 +40,7 @@
   {
     "name": "Zhe Meng",
     "role": "Research Technician",
-    "status": "current",
+    "status": "alumni",
     "education": "Huazhong University of Science & Technology at Hankou, China, B.S., Chemical Engineering",
     "bio": "I joined the Nelson lab in 2004. I really enjoy working here at Brandeis. The people are enthusiastic about their work and a pleasure to work with.",
     "image": "/images/zhe-meng.png"
@@ -32,7 +48,7 @@
   {
     "name": "Derek Wise",
     "role": "Graduate Student (jointly supervised by Steve Van Hooser)",
-    "status": "current",
+    "status": "alumni",
     "education": "B.A.: Colby College, Maine; Graduated January, 2023",
     "bio": "I am using calcium imaging and visualization of synaptic proteins to monitor homeostatic regulation of network activity in cortical slice cultures."
   },
