@@ -7,6 +7,7 @@
     { "label": "People", "href": "/people" },
     { "label": "Projects", "href": "/projects" },
     { "label": "Publications", "href": "/publications" },
+    { "label": "News/Events", "href": "/news" },
     { "label": "Resources", "href": "/resources" }
   ]
 }

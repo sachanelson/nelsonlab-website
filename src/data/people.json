@@ -4,7 +4,8 @@
     "role": "Principal Investigator",
     "status": "current",
     "education": "B.A., B.S., Brown University; M.D., Ph.D., UCSD; Post-Doc, M.I.T.",
-    "bio": "I love collaborating with this great group of people. Other interests include ultimate frisbee, politics, music and the future of scientific publication."
+    "bio": "I love collaborating with this great group of people. Other interests include ultimate frisbee, politics, music and the future of scientific publication.",
+    "image": "/images/turkHead.png"
   },
   {
     "name": "Erick Barrios",
@@ -18,7 +19,7 @@
     "name": "Elly Ragone",
     "role": "Graduate Student",
     "status": "current",
-    "education": "Bachelor's degree: ",
+    "education": "Bachelor's degree: Oberlin",
     "bio": "I am studying how BMAL1 regulates cortical excitability and cortical development",
     "image": "/images/Elly.png"
   },
@@ -34,17 +35,25 @@
     "name": "Junu Lee",
     "role": "Undergraduate Researcher",
     "status": "current",
-    "education": "Bachelor's degree: ",
+    "education": "Brandeis",
     "bio": "I am studying thyroid hormone regulation of KLF transcription factors",
     "image": "/images/Junu.jpg"
   },
- {
-    "name": "Eytan ",
+  {
+    "name": "Eytan Sieger",
     "role": "Undergraduate Researcher",
     "status": "current",
-    "education": "Bachelor's degree: ",
+    "education": "Brandeis",
     "bio": "I am studying regulation of cortical excitability by BMAL1",
     "image": "/images/Eytan.jpg"
+  },
+  {
+    "name": "Emma (Boxi) Zhang",
+    "role": "Undergraduate",
+    "status": "current",
+    "education": "Brandeis",
+    "bio": "",
+    "image": "/images/Emma.jpg"
   },
  
   {
@@ -52,7 +61,8 @@
     "role": "Graduate Student",
     "status": "Alumni",
     "education": "Bachelor's degree: Oberlin and University of Delaware",
-    "bio": "I graduated in 2025 and am currently a postdoc at Harvard Medical School"
+    "bio": "I graduated in 2025 and am currently a postdoc at Harvard Medical School",
+    "image": "/images/Ryan.png"
   },
   {
     "name": "Zhe Meng",
@@ -67,21 +77,24 @@
     "role": "Graduate Student (jointly supervised by Steve Van Hooser)",
     "status": "alumni",
     "education": "B.A.: Colby College, Maine",
-    "bio": "I Graduated in 2023 and currently work as a senior scientist at Merck"
+    "bio": "I Graduated in 2023 and currently work as a senior scientist at Merck",
+    "image": "/images/Derek.png"
   },
   {
     "name": "Erin Clark",
     "role": "Postdoc",
     "status": "alumni",
-    "education": "PhD, Harvard Medical School, Boston; Bachelors, University of Texas at Austin",
-    "bio": "I am using transgenic mouse lines to characterize the regulatory networks that control adult neuronal identity. Now a Principle Scientist in Pharmacology & Discovery Sciences at Sunovion."
-  },
+    "education": "PhD, Harvard Medical School, Bachelor's, University of Texas at Austin",
+    "bio": "I am using transgenic mouse lines to characterize the regulatory networks that control adult neuronal identity. Now a Principal Scientist at Paragon Therapeutics.",
+    "image": "/images/Erin.jpg"
+},
   {
     "name": "David Levitan",
     "role": "Postdoc (jointly supervised by Don Katz)",
     "status": "alumni",
     "education": "PhD, Bar-Ilan University, Israel",
-    "bio": "I am interested in uncovering the roles that specific cell types play in learning and memory by examining their gene expression patterns in response to varying memory related tasks. Now a postdoc at Hebrew University."
+    "bio": "I am interested in uncovering the roles that specific cell types play in learning and memory by examining their gene expression patterns in response to varying memory related tasks. Now a postdoc at Hebrew University.",
+    "image": "/images/David.jpg"
   },
   {
     "name": "Chenghao Liu",
@@ -110,6 +123,16 @@
     "role": "Postdoc",
     "status": "alumni",
     "education": "PhD, Washington University, St. Louis",
-    "bio": "Now a Principle Scientist at Stoke Therapeutics."
+    "bio": "Now a Principal Scientist at Stoke Therapeutics.",
+    "image": "/images/Vera.png"
+  },
+  {
+    "name": "Aelita Zhu",
+    "role": "Undergraduate Researcher",
+    "status": "alumni",
+    "education": "Brandeis",
+    "bio": "Just finished her PhD at Washington University, St. Louis",
+    "image": "/images/Aelita.png"
   }
+  
 ]
