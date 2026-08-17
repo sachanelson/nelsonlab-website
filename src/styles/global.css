@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+.prose p {
+  margin-bottom: 1rem;
+}
