@@ -6,15 +6,28 @@ description: Selected publications from the Nelson Lab.
 
 # Publications
 
+## 2026
+
+## 2025
+
+## 2024
+
+Wise DL, Greene S.B., Escobedo-Lozoya Y, Van Hooser SD and Nelson SB (2024) Progressive circuit hyperexcitability in mouse neocortical slice cultures with increasing duration of activity silencing. ENeuro doi: 10.1523/ENEURO.0362-23.2024
+
+Wise DL, Escobedo-Lozoya Y, Valakh V., Gao E.Y., Bhonsle A., Lei Q.L., Cheng X., Greene S.B., Van Hooser S.D. and Nelson S.B. (2024) Prolonged activity deprivation causes pre- and postsynaptic compensatory plasticity at neocortical excitatory synapses. ENeuro doi: 10.1523/ENEURO.0362-23.2024. 
+
 ## 2023
 
-Valakh V., Wise D., Zhu X.A., Sha M., Fok J., Van Hooser S.D., Schectman R., Cepeda I., Kirk R., O'Toole S. and Nelson S.B. (2023) A transcriptional constraint mechanism limits the homeostatic response to activity deprivation in mammalian neocortex. *Elife*. Accepted February 3rd.
+Valakh V, Wise D, Zhu XA, Sha M, Fok J, Van Hooser SD, Schectman R, Cepeda I, Kirk R, O'Toole S and Nelson SB (2023) A transcriptional constraint mechanism limits the homeostatic response to activity deprivation in mammalian neocortex. *Elife*. 12:e74899. doi: 10.7554/eLife.74899. PMID: 36749029
 
 ## 2021
 
 Nanu RD, Murdy TJ, Levitan D, Nelson SB, Katz DB (2021) Loss of Stk11 in basolateral amygdalar projection neurons impairs taste aversion learning by altering the temporal pattern of taste response plasticity in gustatory cortex bioRxiv 2021.05.31.446460 [Preprint]; doi: [https://doi.org/10.1101/2021.05.31.446460](https://doi.org/10.1101/2021.05.31.446460).
 
 Valakh V., Zhu X.A., Wise D., Van Hooser S., Schectman R., Cepeda I., Kirk R., O'Toole S. and Nelson S.B. (2021) A transcriptional constraint mechanism limits the homeostatic response to activity deprivation in mammalian neocortex. bioRxiv 2021.10.20.465163 [Preprint]; doi: [https://doi.org/10.1101/2021.10.20.465163](https://doi.org/10.1101/2021.10.20.465163).
+
+Slutsky I., Schratt G., Stan G.B., Nelson S., and Bruggeman F.J. (2021) Homeostasis. Cell Syst. 12:1124-1126 doi: 10.1016/j.cels.2021.11.002.
+
 
 ## 2020
 
@@ -35,6 +48,8 @@ Levitan D, Liu C, Lin J-Y, Wachutka J, Marrero Y, Beltrame E, Shima Y, Ghoddousi
 [Levitan D, Lin J-Y, Wachutka J, Mukherjee N, Nelson SB, and Katz DB (2019)](https://www.physiology.org/doi/abs/10.1152/jn.00357.2019) Single and population coding of taste in the gustatory cortex of awake mice. *J. Neurophysiol*. 122(4):1342-1356. doi: 10.1152/jn.00357.2019.
 
 [Clark EA, Shima Y, Nelson SB (2019)](https://bio-protocol.org/e3382) ATAC-seq on Sorted Adult Mouse Neurons. *Bio-protocol*. 10.21769/BioProtoc.3382.
+
+Hobert O. and Nelson S.B. (2019) Neuronal Identity. Curr. Op. Neurobiol. 56:iii-iv.
 
 ## 2018
 

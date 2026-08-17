@@ -20,7 +20,7 @@
     "status": "current",
     "education": "Bachelor's degree: ",
     "bio": "I am studying how BMAL1 regulates cortical excitability and cortical development",
-    "image": "/images/elly-ragone.png"
+    "image": "/images/elly.png"
   },
   {
     "name": "Morgan Baciu",
@@ -28,14 +28,31 @@
     "status": "current",
     "education": "Bachelor's degree: ",
     "bio": "I am using CRISPRi to manipulate transcription factors in mammalian cortical neurons.",
-    "image": "/images/morgan-baciu.png"
+    "image": "/images/Morgan.jpg"
   },
+  {
+    "name": "Junu Lee",
+    "role": "Undergraduate Researcher",
+    "status": "current",
+    "education": "Bachelor's degree: ",
+    "bio": "I am studying thyroid hormone regulation of KLF transcription factors",
+    "image": "/images/Junu.jpg"
+  },
+ {
+    "name": "Eytan ",
+    "role": "Undergraduate Researcher",
+    "status": "current",
+    "education": "Bachelor's degree: ",
+    "bio": "I am studying regulation of cortical excitability by BMAL1",
+    "image": "/images/Eytan.jpg"
+  },
+ 
   {
     "name": "Ryan Kirk",
     "role": "Graduate Student",
-    "status": "current",
+    "status": "Alumni",
     "education": "Bachelor's degree: Oberlin and University of Delaware",
-    "bio": "I am interested in new techniques for manipulating nuclear proteins in order to better understand transcriptional circuits in mammalian neurons."
+    "bio": "I graduated in 2025 and am currently a postdoc at Harvard Medical School"
   },
   {
     "name": "Zhe Meng",
@@ -49,8 +66,8 @@
     "name": "Derek Wise",
     "role": "Graduate Student (jointly supervised by Steve Van Hooser)",
     "status": "alumni",
-    "education": "B.A.: Colby College, Maine; Graduated January, 2023",
-    "bio": "I am using calcium imaging and visualization of synaptic proteins to monitor homeostatic regulation of network activity in cortical slice cultures."
+    "education": "B.A.: Colby College, Maine",
+    "bio": "I Graduated in 2023 and currently work as a senior scientist at Merck"
   },
   {
     "name": "Erin Clark",
@@ -93,6 +110,6 @@
     "role": "Postdoc",
     "status": "alumni",
     "education": "PhD, Washington University, St. Louis",
-    "bio": "I am studying the transcriptional regulation of homeostatic plasticity, and its role in seizure disorders. Now a Senior Scientist at Cognesy Therapeutics."
+    "bio": "Now a Principle Scientist at Stoke Therapeutics."
   }
 ]
