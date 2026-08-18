@@ -24,10 +24,18 @@
     "image": "/images/Elly.png"
   },
   {
+    "name": "Hailey Lizzaraga",
+    "role": "Research Technician",
+    "status": "current",
+    "education": "Bachelor's degree: UC Santa Cruz",
+    "bio": "",
+    "image": "/images/Hailey.jpg"
+  },
+  {
     "name": "Morgan Baciu",
     "role": "Graduate Student",
     "status": "current",
-    "education": "Bachelor's degree: ",
+    "education": "Bachelor's degree: University of Colorado, Boulder",
     "bio": "I am using CRISPRi to manipulate transcription factors in mammalian cortical neurons.",
     "image": "/images/Morgan.jpg"
   },
@@ -48,6 +56,14 @@
     "image": "/images/Eytan.jpg"
   },
   {
+    "name": "Guy Sternberg",
+    "role": "Undergraduate",
+    "status": "current",
+    "education": "Brandeis",
+    "bio": "",
+    "image": "/images/Guy.jpg"
+  },
+  {
     "name": "Emma (Boxi) Zhang",
     "role": "Undergraduate",
     "status": "current",
@@ -55,7 +71,6 @@
     "bio": "",
     "image": "/images/Emma.jpg"
   },
- 
   {
     "name": "Ryan Kirk",
     "role": "Graduate Student",

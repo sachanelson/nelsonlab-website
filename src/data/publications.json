@@ -1,17 +1,22 @@
 [
   {
-    "year": 2024,
-    "citation": "Wise DL, Greene S.B., Escobedo-Lozoya Y, Van Hooser SD and Nelson SB (2024) Progressive circuit hyperexcitability in mouse neocortical slice cultures with increasing duration of activity silencing. ENeuro doi: 10.1523/ENEURO.0362-23.2024",
+    "year": 2025,
+    "citation": "Kirk RW, Sun L, Xiao R, Clark EA, Nelson SB. Multiplexed CRISPRi Reveals a Transcriptional Switch Between KLF Activators and Repressors in the Maturing Neocortex. (2025) bioRxiv 636951 [Preprint] doi: 10.1101/2025.02.07.636951v3. In revision ELife.",
     "pdf": null
   },
   {
     "year": 2024,
-    "citation": "Wise DL, Escobedo-Lozoya Y, Valakh V., Gao E.Y., Bhonsle A., Lei Q.L., Cheng X., Greene S.B., Van Hooser S.D. and Nelson S.B. (2024) Prolonged activity deprivation causes pre- and postsynaptic compensatory plasticity at neocortical excitatory synapses. ENeuro doi: 10.1523/ENEURO.0362-23.2024.",
+    "citation": "Wise DL, Greene SB, Escobedo-Lozoya Y, Van Hooser SD and Nelson SB (2024) Progressive circuit hyperexcitability in mouse neocortical slice cultures with increasing duration of activity silencing. ENeuro doi: 10.1523/ENEURO.0362-23.2024.",
+    "pdf": null
+  },
+  {
+    "year": 2024,
+    "citation": "Wise DL, Escobedo-Lozoya Y, Valakh V, Gao EY, Bhonsle A, Lei QL, Cheng X., Greene SB, Van Hooser SD and Nelson SB (2024) Prolonged activity deprivation causes pre- and postsynaptic compensatory plasticity at neocortical excitatory synapses. ENeuro doi: 10.1523/ENEURO.0362-23.2024.",
     "pdf": null
   },
   {
     "year": 2023,
-    "citation": "Valakh V, Wise D, Zhu XA, Sha M, Fok J, Van Hooser SD, Schectman R, Cepeda I, Kirk R, O&#x27;Toole S and Nelson SB (2023) A transcriptional constraint mechanism limits the homeostatic response to activity deprivation in mammalian neocortex. <em>Elife</em>. 12:e74899. doi: 10.7554/eLife.74899. PMID: 36749029",
+    "citation": "Valakh V, Wise D, Zhu XA, Sha M, Fok J, Van Hooser SD, Schectman R, Cepeda I, Kirk R, O'Toole S and Nelson SB (2023) A transcriptional constraint mechanism limits the homeostatic response to activity deprivation in mammalian neocortex. <em>Elife</em>. 12:e74899. doi: 10.7554/eLife.74899. PMID: 36749029",
     "pdf": null
   },
   {
@@ -21,7 +26,7 @@
   },
   {
     "year": 2021,
-    "citation": "Valakh V., Zhu X.A., Wise D., Van Hooser S., Schectman R., Cepeda I., Kirk R., O&#x27;Toole S. and Nelson S.B. (2021) A transcriptional constraint mechanism limits the homeostatic response to activity deprivation in mammalian neocortex. bioRxiv 2021.10.20.465163 [Preprint]; doi: <a href=\"https://doi.org/10.1101/2021.10.20.465163\" target=\"_blank\" class=\"text-indigo-600 hover:text-indigo-800 underline\">https://doi.org/10.1101/2021.10.20.465163</a>.",
+    "citation": "Valakh V, Zhu XA, Wise D, Van Hooser SD, Schectman R, Cepeda I, Kirk R, O'Toole S and Nelson SB (2021) A transcriptional constraint mechanism limits the homeostatic response to activity deprivation in mammalian neocortex. bioRxiv 2021.10.20.465163 [Preprint]; doi: <a href=\"https://doi.org/10.1101/2021.10.20.465163\" target=\"_blank\" class=\"text-indigo-600 hover:text-indigo-800 underline\">https://doi.org/10.1101/2021.10.20.465163</a>.",
     "pdf": null
   },
   {
@@ -83,5 +88,42 @@
     "year": 2018,
     "citation": "Phillips JW, Schulmann A, Hara E, Liu C, Shields B, Korff W, Lemire A, Dudman J, Nelson SB, and Hantman A. A topographic axis of transcriptional identity in thalamus. bioRxiv 241315 [Preprint]. doi: <a href=\"https://doi.org/10.1101/241315\" target=\"_blank\" class=\"text-indigo-600 hover:text-indigo-800 underline\">https://doi.org/10.1101/241315</a>.",
     "pdf": null
+  },
+    {
+    "year": 2017,
+    "citation": "Moreno-Juan V, Filipchuk A, Antón-Bolaños N, Mezzera C, Gezelius H, Andrés B, Rodríguez-Malmierca L, Susín R, Schaad O, Iwasato T, Schuele R, Rutlin M, Nelson SB, Ducret S, Valdeolmillos M, Rijli FM, and López-Bendito G (2017) Prenatal thalamic waves regulate cortical area size prior to sensory processing. Nature Comm. Feb 3;8:14172. PMC5296753. doi: 10.1038/ncomms14172.",
+    "pdf": null
+  },
+  {
+    "year": 2017,
+    "citation": "O'Toole SM, Ferrer MM, Mekonnen J, Zhang H, Shima Y, Ladle DR, and Nelson SB (2017) Dicer maintains the identity and function of proprioceptive sensory neurons. J Neurophysiol.  117:1057-1069. PMC5338617 doi: 10.1152/jn.00763.2016",  
+    "pdf": null
+  },
+  {
+    "year": 2017,
+    "citation": "Choy J.M., Suzuki N., Shima Y., Budisantoso T., Nelson S.B., and Bekkers J.M. (2017) Optogenetic Mapping of Intracortical Circuits Originating from Semilunar Cells in the Piriform Cortex. Cereb Cortex. 27:589-601. PMC5939214.",  
+    "pdf": null
+  },
+  {
+    "year": 2016,
+    "citation": "Abraira VE, Kuehn ED, Chirila AM, Springel MW, Toliver AA, Zimmerman AL, Orefice LL, Boyle KA, Bai L, Song BJ, Bashista KA, O'Neill TG, Zhuo J, Tsan C, Hoynoski J, Rutlin M, Kus L, Niederkofler V., Watanabe M., Dymecki SM, Nelson SB, Heintz N, Hughes DI, and Ginty DD (2016) The Cellular and synaptic architecture of the mechanosensory dorsal horn. Cell. 168(1-2):295-310. doi: 10.1016/j.cell.2016.12.010. PMC5236062.",
+    "pdf": null
+  },
+  {
+    "year": 2016,
+    "citation": "Crittenden JR, Tillberg PW, Riad MH, Shima Y, Gerfen CR, Curry J, Housman DE, Nelson SB, Boyden ES, and Graybiel AM (2016) Striosome-dendron bouquets highlight a unique striatonigral circuit targeting dopamine-containing neurons. Proc. Natl. Acad. Sci. USA 113(40):11318-11323. PMC5056098",
+    "pdf": null
+  },
+    {
+    "year": 2016,
+    "citation": "Steinmetz  CC, Tatavarty V, Sugino K, Shima Y, Joseph A, Line H, Rutlin M, Lambo M, Hempel CM, Okaty BW, Paradis S, *Nelson SB, and *Turrigiano GG (2016) Upregulation of µ3A drives homeostatic plasticity by rerouting AMPAR into the recycling endosomal pathway. Cell Reports. 16(10):2711-22. PMC5226429 *Corresponding authors",
+    "pdf": null
+  },
+  {
+    "year": 2016,
+    "citation": "Shima Y, Hempel CM, Bullis J, Taneja P, Mehta S, Sugino K, Lois C, and Nelson SB (2016) A Mammalian enhancer trap resource for discovering and manipulating neuronal cell types. Elife 5. pii: e13503. doi: 10.7554/eLife.13503. PMC4846381",
+    "pdf": null
   }
+
+
 ]
